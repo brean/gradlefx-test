@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Main MXML file for testing
+    http://wemakesoftware.com
+-->
+<s:Application 
+    xmlns:fx="http://ns.adobe.com/mxml/2009"
+    xmlns:s="library://ns.adobe.com/flex/spark"
+
+    backgroundAlpha="0.0"
+    
+    top="0" left="0" >
+    <s:Group verticalCenter="0" horizontalCenter="0">
+        <s:Label text="hello world!" />
+    </s:Group>
+</s:Application>
+
